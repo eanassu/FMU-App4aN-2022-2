@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App4aN</string>
+    <string name="txtSomar">Somar</string>
+    <string name="txtCalculadoraDeGorjeta">Calculadora de Gorjeta</string>
+    <string name="txtValor">Valor</string>
+    <string name="txtGorjeta">Gorjeta</string>
+    <string name="txtTotal">Total</string>
+
+</resources>
